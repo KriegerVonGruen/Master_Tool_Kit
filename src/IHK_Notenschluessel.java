@@ -18,7 +18,7 @@ public class IHK_Notenschluessel extends JFrame implements ActionListener {
     {
         ihkFrame.setVisible(true);
     }
-    public void nuttenSchluessel()
+    public void notenSchluessel()
     {
         ihkFrame = new JFrame();
         ihkFrame.setSize(320,500);

@@ -105,6 +105,7 @@ public class Gui extends JFrame implements ActionListener
                 Notiz.setNotizVisOn();
             }
         }
+        // set MenuItem Notenschlüssel
         if ( e.getSource() == mIihkKey)
         {
             if ( IHK_Notenschluessel.ihkFrame != null)
@@ -113,8 +114,8 @@ public class Gui extends JFrame implements ActionListener
             }
             else
             {
-                IHK_Notenschluessel nuttenSchluesselIhk = new IHK_Notenschluessel();
-                nuttenSchluesselIhk.nuttenSchluessel();
+                IHK_Notenschluessel notenSchluesselIhk = new IHK_Notenschluessel();
+                notenSchluesselIhk.notenSchluessel();
                 IHK_Notenschluessel.setIhkVisOn();
             }
         }

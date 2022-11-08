@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e387d497-fc14-45d2-ad3f-bb48a83d0127" name="Changes" comment="Home">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gui.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IHK_Notenschluessel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IHK_Notenschluessel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1667910962324</updated>
       <workItem from="1667910963797" duration="1881000" />
-      <workItem from="1667912963967" duration="80000" />
+      <workItem from="1667912963967" duration="259000" />
     </task>
     <task id="LOCAL-00001" summary="Home">
       <created>1667912677646</created>
@@ -80,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667912768170</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Home">
+      <created>1667913070181</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667913070181</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
